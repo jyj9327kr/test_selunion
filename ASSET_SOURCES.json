@@ -1,0 +1,160 @@
+{
+  "reference": "https://selunion.co.kr/",
+  "captured": "2026-09-09",
+  "purpose": "Local BrowserGuard test fixture. Third-party asset rights remain with their owners.",
+  "assets": [
+    {
+      "file": "logo.png",
+      "source": "https://selunion.co.kr/img/logo.png",
+      "bytes": 1240,
+      "contentType": "image/png",
+      "signature": "89504e470d0a1a0a"
+    },
+    {
+      "file": "ft_logo.png",
+      "source": "https://selunion.co.kr/img/ft_logo.png",
+      "bytes": 1267,
+      "contentType": "image/png",
+      "signature": "89504e470d0a1a0a"
+    },
+    {
+      "file": "login.png",
+      "source": "https://selunion.co.kr/img/icon/login.png",
+      "bytes": 1082,
+      "contentType": "image/png",
+      "signature": "89504e470d0a1a0a"
+    },
+    {
+      "file": "search.png",
+      "source": "https://selunion.co.kr/img/icon/search.png",
+      "bytes": 739,
+      "contentType": "image/png",
+      "signature": "89504e470d0a1a0a"
+    },
+    {
+      "file": "menu.png",
+      "source": "https://selunion.co.kr/img/icon/menu.png",
+      "bytes": 229,
+      "contentType": "image/png",
+      "signature": "89504e470d0a1a0a"
+    },
+    {
+      "file": "selu_fvi.png",
+      "source": "https://selunion.co.kr/img/icon/selu_fvi.png",
+      "bytes": 1109,
+      "contentType": "image/png",
+      "signature": "89504e470d0a1a0a"
+    },
+    {
+      "file": "more-icon.svg",
+      "source": "https://selunion.co.kr/img/icon/more-icon.svg",
+      "bytes": 695,
+      "contentType": "image/svg+xml",
+      "signature": "3c73766720776964"
+    },
+    {
+      "file": "prev_icon.svg",
+      "source": "https://selunion.co.kr/img/icon/prev_icon.svg",
+      "bytes": 436,
+      "contentType": "image/svg+xml",
+      "signature": "3c73766720776964"
+    },
+    {
+      "file": "play.svg",
+      "source": "https://selunion.co.kr/img/icon/play.svg",
+      "bytes": 282,
+      "contentType": "image/svg+xml",
+      "signature": "3c73766720776964"
+    },
+    {
+      "file": "pause.svg",
+      "source": "https://selunion.co.kr/img/icon/pause.svg",
+      "bytes": 333,
+      "contentType": "image/svg+xml",
+      "signature": "3c73766720776964"
+    },
+    {
+      "file": "banner-32.jpg",
+      "source": "https://selunion.co.kr/data/banner_bbs/32",
+      "bytes": 540745,
+      "contentType": "image/jpeg",
+      "signature": "ffd8ffe100874578"
+    },
+    {
+      "file": "banner-32-mobile.jpg",
+      "source": "https://selunion.co.kr/data/banner_bbs/32_mo",
+      "bytes": 1336944,
+      "contentType": "image/jpeg",
+      "signature": "ffd8ffe100874578"
+    },
+    {
+      "file": "banner-24.jpg",
+      "source": "https://selunion.co.kr/data/banner_bbs/24",
+      "bytes": 544408,
+      "contentType": "image/jpeg",
+      "signature": "ffd8ffe100874578"
+    },
+    {
+      "file": "banner-24-mobile.jpg",
+      "source": "https://selunion.co.kr/data/banner_bbs/24_mo",
+      "bytes": 799467,
+      "contentType": "image/jpeg",
+      "signature": "ffd8ffe100874578"
+    },
+    {
+      "file": "banner-30.jpg",
+      "source": "https://selunion.co.kr/data/banner_bbs/30",
+      "bytes": 452793,
+      "contentType": "image/jpeg",
+      "signature": "ffd8ffe100874578"
+    },
+    {
+      "file": "banner-30-mobile.jpg",
+      "source": "https://selunion.co.kr/data/banner_bbs/30_mo",
+      "bytes": 551230,
+      "contentType": "image/jpeg",
+      "signature": "ffd8ffe100874578"
+    },
+    {
+      "file": "banner-27.jpg",
+      "source": "https://selunion.co.kr/data/banner_bbs/27",
+      "bytes": 1049329,
+      "contentType": "image/jpeg",
+      "signature": "ffd8ffe100874578"
+    },
+    {
+      "file": "banner-27-mobile.jpg",
+      "source": "https://selunion.co.kr/data/banner_bbs/27_mo",
+      "bytes": 1621092,
+      "contentType": "image/jpeg",
+      "signature": "ffd8ffe100874578"
+    },
+    {
+      "file": "banner-25.jpg",
+      "source": "https://selunion.co.kr/data/banner_bbs/25",
+      "bytes": 835490,
+      "contentType": "image/jpeg",
+      "signature": "ffd8ffe100874578"
+    },
+    {
+      "file": "banner-25-mobile.jpg",
+      "source": "https://selunion.co.kr/data/banner_bbs/25_mo",
+      "bytes": 2262870,
+      "contentType": "image/jpeg",
+      "signature": "ffd8ffe100874578"
+    },
+    {
+      "file": "NotoSansKR-OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanskr/OFL.txt",
+      "bytes": 4388,
+      "contentType": "text/plain; charset=utf-8",
+      "signature": "436f707972696768"
+    },
+    {
+      "file": "noto-sans-kr.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanskr/NotoSansKR%5Bwght%5D.ttf",
+      "bytes": 10414588,
+      "contentType": "font/ttf"
+    }
+  ]
+}
